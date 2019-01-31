@@ -42,5 +42,5 @@ def logout():
     return redirect(url_for('home'))
 #run application
 if __name__=='__main__': 
-    app.secret_key="1234567collins"
+    app.secret_key="1234567collinsii"
     app.run(debug=True)
